@@ -1,6 +1,7 @@
 gitdemo amk jetzt funktioniere
 test
-test
+test2
+random
 Hallo ich bin :)
 funktioniert es? Wir hoffen.
 test 2
