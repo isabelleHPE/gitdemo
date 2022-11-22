@@ -1,5 +1,5 @@
 # gitdemo
 test
 test
-
-test2
+test 2
+Das ist meine Message an die Welt!
