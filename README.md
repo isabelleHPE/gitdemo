@@ -1,4 +1,3 @@
-# gitdemo
+gitdemo amk jetzt funktioniere
 test
 test
-test von Memo
